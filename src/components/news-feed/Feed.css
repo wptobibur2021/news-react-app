@@ -1,0 +1,14 @@
+.MuiGrid-root.MuiGrid-grid-xs-6.css-1lmcy9y-MuiGrid-root {
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.css-1lmcy9y-MuiGrid-root {
+    flex-basis: 46% !important;
+}
+.news-feed{
+    overflow-y:scroll;
+    height:auto;
+}
+.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-undefined.css-11lq3yg-MuiGrid-root {
+    padding: 100px 0px;
+}

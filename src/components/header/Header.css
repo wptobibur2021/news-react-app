@@ -1,0 +1,17 @@
+header.header-section {
+    background-color: #dff2f657;
+    margin-bottom: 50px;
+    position: sticky;
+    top: 0;
+    z-index: 9999999999;
+}
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #ccd6d8;
+    outline: 0;
+    box-shadow: none;
+}
+.search-input{
+    width: 50% !important;
+}

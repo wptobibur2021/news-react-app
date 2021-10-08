@@ -1,0 +1,29 @@
+.left-sidebar {
+    overflow-y:scroll;
+    height: calc(100vh - 50px);
+    position: sticky;
+    top: 100px;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.popular-post.css-1ri6ub7-MuiPaper-root-MuiCard-root {
+    margin-right: 10px;
+}
+::-webkit-scrollbar{
+    width: 7px;
+}
+
+::-webkit-scrollbar-track{
+    background-color: #fff;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #e5e4f6;
+    border-radius: 7px;
+}
+.popular-post{
+    margin-bottom: 35px;
+}
+.popular-posts-title {
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 15px !important
+}

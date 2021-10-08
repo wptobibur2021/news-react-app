@@ -1,0 +1,13 @@
+.sidebar-heading {
+    border-bottom: 1px solid #f0eded;
+    margin-bottom: 10px !important;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.right-sidebar{
+    overflow-y:scroll;
+    height: calc(100vh - 50px);
+    position: sticky;
+    top: 100px;
+}
